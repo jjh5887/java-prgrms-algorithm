@@ -24,6 +24,4 @@
 
 ```bash
 ex. 이름/주차/문제번호 chanyoung/1주차/prgrms12345.java
-# 또는 
-ex. 이름/주차/문제번호 chanyoung/1주차/prgrms12345.md
 ```
